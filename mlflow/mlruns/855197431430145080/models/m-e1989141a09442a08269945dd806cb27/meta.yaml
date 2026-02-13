@@ -1,0 +1,10 @@
+artifact_location: /home/fernandogalvao/Documentos/tutorials-2026/mlflow/mlruns/855197431430145080/models/m-e1989141a09442a08269945dd806cb27/artifacts
+creation_timestamp: 1770943115308
+experiment_id: '855197431430145080'
+last_updated_timestamp: 1770943164215
+model_id: m-e1989141a09442a08269945dd806cb27
+model_type: null
+name: model
+source_run_id: 350f1bb616e4483e9a5b36ef35222af6
+status: 2
+status_message: null
